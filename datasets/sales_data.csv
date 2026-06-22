@@ -1,0 +1,11 @@
+Order_ID,Product,Category,Region,Quantity,Price,Sales_Date
+1001,Laptop,Electronics,South,2,50000,2025-01-10
+1002,Mobile,Electronics,North,3,20000,2025-01-11
+1003,Keyboard,Accessories,East,5,1000,2025-01-12
+1004,Mouse,Accessories,West,4,800,2025-01-13
+1005,Monitor,Electronics,South,2,12000,2025-01-14
+1006,Laptop,Electronics,North,1,50000,2025-01-15
+1007,Mobile,Electronics,East,2,20000,2025-01-16
+1008,Keyboard,Accessories,West,6,1000,2025-01-17
+1009,Mouse,Accessories,South,8,800,2025-01-18
+1010,Monitor,Electronics,North,3,12000,2025-01-19
