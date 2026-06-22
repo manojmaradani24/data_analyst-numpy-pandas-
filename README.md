@@ -20,6 +20,3 @@ This repository contains my 6-day Data Analytics learning journey using Python, 
 - NumPy
 - Pandas
 - Jupyter Notebook
-
-## Author
-Manoj Maradani
